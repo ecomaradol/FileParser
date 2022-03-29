@@ -1,0 +1,107 @@
+{
+  "code": "28200",
+  "message": "Process Success",
+  "metadata": "test",
+  "results": {
+    "tenant": [
+      {
+        "id": "FORD",
+        "product_desc": "Kipawa K1 (MY21)",
+        "product_unit": [
+          {
+            "unit_name": "FORD_SYNC4_MY21_NA_P702",
+            "region": "NA",
+            "release_number": "21Q1",
+            "model_year": {
+              "name": "MY21",
+              "app_version": [
+                {
+                  "name": "1.41r.20200706.4338ccb2"
+                },
+                {
+                  "name": "1.41r.20200718.0bf50b27"
+                }
+              ]
+            }
+          }
+        ],
+        "all_app_versions": [
+          "1.41r.20200706.4338ccb2",
+          "1.41r.20200718.0bf50b27"
+        ]
+      },
+      {
+        "id": "FORD",
+        "product_desc": "Kipawa K1 OTA1",
+        "product_unit": [
+          {
+            "unit_name": "FORD_SYNC4_MY21_NA_OTA",
+            "region": "NA",
+            "release_number": "21Q1",
+            "model_year": {
+              "name": "MY21",
+              "app_version": [
+                {
+                  "name": "1.51r.20201201.76f3508a"
+                }
+              ]
+            }
+          }
+        ],
+        "all_app_versions": [
+          "1.51r.20201201.76f3508a"
+        ]
+      },
+      {
+        "id": "FORD",
+        "product_desc": "Kipawa K2 U540",
+        "product_unit": [
+          {
+            "unit_name": "FORD_SYNC4_MY21_NA_U540",
+            "region": "NA",
+            "release_number": "21Q1",
+            "model_year": {
+              "name": "MY21",
+              "app_version": [
+                {
+                  "name": ".17.3.release-u540-launch.20210117.b333b029.26"
+                }
+              ]
+            }
+          }
+        ],
+        "all_app_versions": [
+          ".17.3.release-u540-launch.20210117.b333b029.26"
+        ]
+      },
+      {
+        "id": "DENALI",
+        "product_desc": "DENALI"
+      },
+      {
+        "id": "SCOUT",
+        "product_desc": "SCOUT"
+      },
+      {
+        "id": "RIVIAN",
+        "product_desc": "RIVIAN"
+      },
+      {
+        "id": "DATA_COLLECTOR",
+        "product_desc": "DATA_COLLECTOR"
+      },
+      {
+        "id": "MOTIONAUTO",
+        "product_desc": "MOTIONAUTO"
+      },
+      {
+        "id": "NOVO",
+        "product_desc": "DRIVE_MOTION"
+      },
+      {
+        "id": "VIVID_USAM",
+        "product_desc": "VIVID_USAM"
+      }
+    ]
+  }
+}
